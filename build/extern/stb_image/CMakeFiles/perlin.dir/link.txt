@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstb-perlin.a CMakeFiles/perlin.dir/stb/perlin.c.o
+/usr/bin/ranlib libstb-perlin.a

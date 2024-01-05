@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstb-image-write.a "CMakeFiles/image-write.dir/stb/image-write.c.o"
+/usr/bin/ranlib libstb-image-write.a

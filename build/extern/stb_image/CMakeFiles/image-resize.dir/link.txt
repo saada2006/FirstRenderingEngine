@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstb-image-resize.a "CMakeFiles/image-resize.dir/stb/image-resize.c.o"
+/usr/bin/ranlib libstb-image-resize.a

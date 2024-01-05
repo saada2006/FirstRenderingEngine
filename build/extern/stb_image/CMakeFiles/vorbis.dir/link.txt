@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstb-vorbis.a CMakeFiles/vorbis.dir/stb/stb_vorbis.c.o
+/usr/bin/ranlib libstb-vorbis.a
